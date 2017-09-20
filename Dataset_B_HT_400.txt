@@ -1,0 +1,400 @@
+NEG	amin .
+NEG	sangka ahok ! .
+NEG	wah kampung saya .
+NEG	 ahok game over
+NEG	 fpi delete ahok
+NEG	ahoak adalah drakula
+NEG	 maaf ahok game over
+NEG	delete ahok penjara ahok
+NEG	nah kan . kode keras ini .
+NEG	basuki game over $$ HT_NEG
+NEG	save fpi delete ahok $$ HT_NEG
+NEG	basuki game over dong $$ HT_NEG
+NEG	ari yusuf yakin ahok jadi sangka
+NEG	benar sudah pada gila bela basuki
+NEG	   maaf ahok game over
+NEG	apa  basuki game over $$ HT_NEG
+NEG	adik uje yakin . persen ahok sangka
+NEG	fadli zon ada upaya untuk lolos ahok
+NEG	tegak adil basuki game over $$ HT_NEG
+NEG	acta yakin ahok jadi sangka nista agama
+NEG	tahan donk . enak sangat sangka keluyur
+NEG	moga sukses . basuki game over $$ HT_NEG
+NEG	ini alat bukti yang akan jadi ahok sangka
+NEG	save dalam penjara saja biar lebih aman .
+NEG	moga jadi referensi kuat ahok jadi sangka
+NEG	ahok koruptor ayo save pak ahok $$ HT_POS
+NEG	acara lapor optimis ahok bakal jadi sangka
+NEG	duh gala akun anonim saja ribet demi ahok .
+NEG	ini alas din syamsuddin tolak ahok via 
+NEG	habib rizieq yakin ahok bakal masuk penjara
+NEG	 sedih lihat muslim yang bela ahok mati
+NEG	massa fpi kawal gelar perkara ahok di mabes
+NEG	lkpi elektabilitas ahok di urut paling bawah
+NEG	apa we tamat ahok basuki game over $$ HT_NEG
+NEG	  kalau ahok bebas , kita demo lagi
+NEG	komisi i curiga bom samarinda alih kasus ahok
+NEG	nah lohh dasar ahoak dusta polri harus netral
+NEG	   . dan ahok tidak tahu tahu . ?
+NEG	kata habib rizieq , insya allah ahok sangka
+NEG	ajar lagi deh sana basuki game over $$ HT_NEG
+NEG	ali yusuf yakin ahok jadi sangka kicaupulitik
+NEG	ulama sudah mulai adu domba oleh pihak ahok !
+NEG	ahok boleh panggil saksi ahli tapi sangka dulu
+NEG	jika polisi bebas ahok , mui aju praperadilan
+NEG	si mulut jamban ahok basuki game over $$ HT_NEG
+NEG	. habib rizieq yakin ahok bisa jerat bagai sangka
+NEG	kandang mana kandang ? basuki game over $$ HT_NEG
+NEG	jabat cuma dapat lungsur basuki game over $$ HT_NEG
+NEG	adil ahok di mabes polri . hanya sandiwara belaka ?
+NEG	jika ahok tak salah , mui akan tempuh praperadilan
+NEG	para munafik sedang kelit basuki game over $$ HT_NEG
+NEG	. adil ahok di mabes polri . hanya sandiwara belaka ?
+NEG	basuki game over maspiyungan nrshint dppfpi $$ HT_NEG
+NEG	geger ! edar surat edar dewan gereja desak ahok mundur
+NEG	teman mabuk tipu tipu terus basuki game over $$ HT_NEG
+NEG	sudah lihat kalau salah koko . tidak usah tunjuk tunjuk
+NEG	nalar ahoker tolak ahok arti anti cina anti kristen adp
+NEG	kan memang tidak boleh mundur basuki game over $$ HT_NEG
+NEG	kalau ahok tidak sangka , siap siap hadap kuat besar !
+NEG	basuki game over maspiyungan pisangimpor nrshint $$ HT_NEG
+NEG	mui ahok jadi sangka atau polisi yang cap leceh umat islam
+NEG	ikut gelar perkara , habib rizieq yakin ahok jadi sangka
+NEG	adil ahok , indonesia damai lewat     
+NEG	  penjara ahok supaya kita bisa hidup tanpa caci maki
+NEG	kasus ahok polri harus netral kalau tidak kita turun ke jalan
+NEG	din yang salah itu ahok , kok buni yani yang mau jadi sangka
+NEG	mungkin mereka takut dengar takbir kumandang dalam ruang itu .
+NEG	karena nyata kental bagai jubir ahok basuki game over $$ HT_NEG
+NEG	tapi mereka selalu lindung di bhineka tunggal ika dan pancasila
+NEG	gelar perkara ahok nilai profesional basuki game over $$ HT_NEG
+NEG	saat ini ahok lagi di tolak warga di cintek kel ciracas jaktim .
+NEG	jokowi bilang akan jadi ahok sangka , tapi tanya megawati dulu
+NEG	pak perintah kan tangkap ahok dan keluarga , kroni nya cepat .
+NEG	basuki game over maspiyungan pisangimpor nrshint lanjut $$ HT_NEG
+NEG	ikut gelar perkara , habib rizieq insya allah ahok masuk penjara
+NEG	lama kalau mirip firaun mas garangan , basuki game over $$ HT_NEG
+NEG	main sandiwara ini . banyak kita sudah hafal sepak terjang ahoker .
+NEG	basuki game over maspiyungan pisangimpor nrshint hukum lah $$ HT_NEG
+NEG	kpu dki tim kampanye ahok harus pandai , jangan cari kambing hitam
+NEG	datang mabes polri , habiburokhman yakin perkara ahok naik ke sidik
+NEG	ikut gelar perkara ahok , neno warisman dari bahasa bukti ada nista
+NEG	jadi saksi ahli lapor , habib rizieq insya allah ahok masuk penjara
+NEG	  masalah sepele kok bikin ruwet sih ? . tangkap ahok beres !
+NEG	kasih deh kamu . syukur basuki game over penjara ahok $$ HT_NEG HT_NEG
+NEG	lieus sungkarisma bulan jadi gubernur , ahok kerja hanya bikin ribut
+NEG	dukung ahok jadi kutu loncat fitnah sana sini     
+NEG	mahfud md polisi tidak boleh tafsir kasus nista agama oleh ahok mahfud
+NEG	fpi sibuk bentuk korban banjir , teman ahok dan teman mabuk ahok mana ?
+NEG	geram dengan ahok , warga tanah abang pasang baliho besar panjang jalan
+NEG	 hati hati mas banyak yang suka sama ahok , nanti kamu ajak demo ya
+NEG	dengan logika yang sama mas : nalar awam dukung ahok adalah anti islam
+NEG	kibul kabul kibul kibul basuki game over basuki game over $$ HT_NEG HT_NEG
+NEG	makin jokowi kesan diri bela ahok , maka marah rakyat makin tak kendali .
+NEG	awal dukung , sekarang anti ahok via  , ya lah dukung model apa ini .
+NEG	linting lengan baju . betul sarung . siap tunggu komando jihad dari ulama !
+NEG	banyak teori  coba tangkap ahok kasus korupsi , . berani tidak , . ? !
+NEG	unsur pidana penuh , tim advokasi mui minta ahok segera tetap bagai sangka
+NEG	tiap buat akan minta tanggung jawab kelak akhirat basuki game over $$ HT_NEG
+NEG	tahu dong , nanti debat cagub kita bongkar busuk ahok semua   ahok
+NEG	neno warisman hal kuat ucap ahok ada unsur nista agama sindo news $$ EMO_POS
+NEG	 yang belum tolak ahok kampung mayat saja ini basuki game over $$ HT_NEG
+NEG	ahok kok tega bicara begitu ? atau peleset lagi ? atau ada yang bablas bela ?
+NEG	allah akbar , musnah rusak bangsa dan negara save fpi delete ahok $$ HT_NEG
+NEG	jika ahok sangka umat islam tak akan demo november tapi syukur dan haji akbar
+NEG	warga tolak kampanye ahok , sosiolog mulut harimau     
+NEG	gelar perkara kasus ahok ulama mesir pulang , habib rizieq yakin ahok sangka
+NEG	basuki game over maspiyungan pisangimpor nrshint adil dulu baru damai $$ HT_NEG
+NEG	insya allah hukum tindak adil dan ahok masuk penjara basuki game over $$ HT_NEG
+NEG	bagaimana kalau ahok sang langsung proses hukum karena cara agama telah nista .
+NEG	kalo ahok sangka tapi tetap bisa ikut pilkada . besok demo pindah di depan kpu .
+NEG	kalau memang ahok salah , penjara saja . indonesia ingin damai dengan majemuk .
+NEG	jangan sampai hanya untuk lindung nista halal gala cara basuki game over $$ HT_NEG
+NEG	sosiolog jika ahok lolos dari jerat hukum sangat bahaya basuki game over $$ HT_NEG
+NEG	haha anda pasti dukung si ahok yang lindung di bhineka tunggal ika yang rasa zalim
+NEG	mau tanya , bela ahok atau cukong kembang reklamasi ? dua sebelas dua belas sik .
+NEG	saya gagal paham baca yang begini dari media yang sama . basuki game over $$ HT_NEG
+NEG	      sekarang terima saja akibat basuki game over $$ HT_NEG
+NEG	basuki game over maspiyungan pisangimpor nrshint cobeh rontok , brindili $$ HT_NEG
+NEG	ini alas din syamsuddin tolak ahok via basuki game over gelar perkara ahok $$ HT_NEG
+NEG	ini contoh orang yang tidak terap budaya santun indonesia basuki game over $$ HT_NEG
+NEG	amat ada biar , ahok seperti lindung untuk terus sebar benci kepada rakyat jakarta
+NEG	cepat sekali allah tunjuk kuasa , bulan kemarin gusur warga , kini balik di gusur .
+NEG	kira siapa intelektual , rupa ahoker juga . bawa nu pula . bang  harus baca ini .
+NEG	si nista agama alias ahok mau kampanye , tapi tolak mana mana , mampus , eh kasihan (
+NEG	  moga jokowi dengar aspirasi rakyat ya tahan jam save fpi delete ahok apa ha ha
+NEG	  habis mau tunggu suara ahok jamban ya tidak lah ahoker hidup nafas dalam dusta
+NEG	 nah ! kalau ahok tidak di tangkap , akan ada gembos mui . makan haram semua sudah
+NEG	masalah bukan ini saja yang di buat ahoak bro . berapa x dia bikin leceh kepada alquran .
+NEG	aneh tapi nyata , belum sempat koordinasi jadi tidak sinkron basuki game over $$ HT_NEG
+NEG	pangi syarwi chaniago nilai jika ahok bebas tidak tutup mungkin parlemen jalan akan jadi .
+NEG	segera tetap jadi sangka . sehingga cepat bukti atau tidak adil . sudah terlalu banyak dan
+NEG	telak ! dukung ahok seru bubar fpi , netizen jawab dengan save fpi delete ahok $$ HT_NEG
+NEG	 periksa nista agama proses butuh waktu tahun cahaya . lot . basuki game over $$ HT_NEG
+NEG	nasib mu golkar ketika pegang oleh orang novanto yang satu species dengan ahok ( sama cina )
+NEG	  berita di baca y , salah nya ahok buka aib orang , bukan nista agama biar pintar
+NEG	basuki game over maspiyungan pisangimpor nrshint kita bela islam , bukan debat . $$ HT_NEG
+NEG	dengan logika yang sama mas : nalar hater ahok dukung ahok arti anti bhineka anti islam .
+NEG	  demo dukung ahok pakai slogan jaga bhineka . benar siapa yang sudah rusak bhineka ?
+NEG	biasa , kubu a hoax kalau sudah pepet pakai jurus pura pura bodoh basuki game over $$ HT_NEG
+NEG	basuki game over : jelas habib rizieq soal hasil sementara gelar perkara ahok $$ HT_NEG
+NEG	   sang buya aku muncul prahara besar . arti sang buya aku kalau ahok sumber masalah
+NEG	basuki game over maspiyungan pisangimpor nrshint laku basuki tiap hari tantang orang ? $$ HT_NEG
+NEG	 ahok pemuda bani tamim kami bangsa islam akhir zaman khilafah islam dim apa for nation state
+NEG	   gilir ada yang tinggal kubu ahok , ahoker pada sok soleh , kalian itu yang picik
+NEG	  ahok terima sama dari populasi orang jakarta . begitu saja kamu sudah senang . kasih deh
+NEG	ya iya ahok memang koruptor ! beli lahan sendiri itu uang mana ? apa . ayo save pak ahok $$ HT_POS
+NEG	hashtag yang cocok buat ahok , . tetap jadi sangka basuki game over polri harus netral $$ HT_NEG
+NEG	hanya paksa ada dan buat buat apabila ahok tidak kata nista dan hina alquran islam ulama indonesia
+NEG	 djarot tidak salah , yang salah ahok . tapi apa orang salah masih di ikut ya ? sungguh aneh !
+NEG	jika ahoak lepas dari hukum dunia , ingat hukum akhirat lebih kejam lagi basuki game over $$ HT_NEG
+NEG	 , coba kalau jadi hadir ulama mesir nya . pasti ahok aku . ini kan kepalang malu , jadi ngeles
+NEG	ahok kuat kkn nya , kota tua mau kuasa istri dan adik , taman ahok catut apbd dan bisnis ada barang
+NEG	 alibi kalau nyata ahok benar arti polri usaha lindung ahok dengan ahli mesir . polri tidak netral
+NEG	insya allah ahok masuk penjara belum masuk , habib rizieq yakin usai gelar perkara ahok pasti akan .
+NEG	ibu ibu komplek juga inisiasi spanduk tolak ahok . mereka kata sudah gerah . basuki game over $$ HT_NEG
+NEG	basuki game over : ikut gelar perkara ahok , neno warisman dari bahasa bukti ada nista $$ HT_NEG
+NEG	wah nyata benar , akhir nya kamu sadar . ahok koruptor dan rusak pancasila ayo save pak ahok $$ HT_POS
+NEG	semua kepala dinas main dua kaki , mereka juga info pada saya busuk ahok , sabar ya   ahok 
+NEG	kalau sudah begini masih belum di sangka , weh . minta umat islam padat bunderan patung kuda lagi ini .
+NEG	kalau dulu ada kampanye pakai slogan kenal orang . sekarang ubah kenal mulut . basuki game over $$ HT_NEG
+NEG	jangan mau bohong kapolri pakai ahoak jangan mau bohong ahoak pakai kapolri jangan mau bohong media pakai
+NEG	 maksud fakta apa ? jangan mau bohong ( pakai ) ayat al quran itu maksud fakta ? arti ahok salah dong
+NEG	sudah pak  jangan sibuk urus ahok saja , rakyat jadi korban politik mu . basuki game over $$ HT_NEG
+NEG	kaya sih ahok yang benar karena dia tidak pernah salah . bukti sampai detik ini , lewat terus itu kasus .
+NEG	 lagi pula si ahok kan bicara nya pakai bahas indonesia ya mas , bukan pakai bahas mesir . suka heran
+NEG	orang yang aku islam tapi mati bela ahok sampai tega bentak dan salah ulama yang lain hanya karena tak dapat
+NEG	ini bukan masalah personal , ini masalah nista agama , ahok dengan umat islam , jangan pelintir  
+NEG	tobat ! tegak benar dan adil walau karir hancur . daripada kamu hancur di akhirat . basuki game over $$ HT_NEG
+NEG	banyak yang percaya dan duga bahwa gelar perkara ahok hanya basa basi . ayo , ini taruh kredibilitas polri .
+NEG	amin . basuki game over : status facebook politis nasdem saya yakin rabu ahok umum jadi sangka $$ HT_NEG
+NEG	 alhamdulillah kita hidup damai tentram beda tidak ada masalah lama ini , karena ambisi dan sombong ahok .
+NEG	   memang ahok erti tentang tafsir ? kalau pun ada beda memang boleh leceh salah satu tafsir sebut ?
+NEG	ada orang tua yang bahagia dengar anak maki dan tak sopan seperti si ahok ? kalau ada mungkin harus ikut tatar p
+NEG	kritik . basa basi . tanya lah hati mu . yang ada jago blunder jelang pilkada . yang salah itu dia . nista alquran
+NEG	ahok dan habis rizieq tidak ada masalah pribadi , ini murni duga nista agama . proses hukum di polisi sudah benar
+NEG	bodoh para dukung ahok bicara soal bhineka , nkri dan pancasila , padahal orang yang rusak adalah ahok itu sendiri
+NEG	hebat dan besar apa kuasa , tak kan mungkin mampu lawan rakyat ! gelar perkara ahok harus cepat , belum umat jihad
+NEG	ini bukan masalah ahok dengan rizieq . hanya orang tolol yang nilai demikian . ini masalah nista yang harus adil 
+NEG	apa . sorry i have to say , rawan ahok djarot yang ikut blusuk kenapa lihat ramai dan narsis sendiri ya . $$ HT_POS
+NEG	nyata , yang undang nya pdip p toh . tidak heran sih , ini kronologi ulama mesir batal datang ke gelar perkara ahok
+NEG	mohon tenang dulu ini team ahok pintar ini dalam acara pidana itu tidak ada istilah mediasi itu ada di perdata jangan
+NEG	 ajar bagi semua , karena sombong ahok , allah swt tegur nya , kalau tidak sadar juga tunggu episode ikut nya .
+NEG	ahok itu ketiban rejeki , blueprint bangun rpjmd sudah buat foke , ahok tinggal eksekusi tanpa harus pikir  ahok
+NEG	bukti blingsatan kubu ahok . media , aparat , ahoker , cebong , semua jadi salah tingkah . . . ahokgameover $$ HT_NEG
+NEG	dengan alat bukti yang credible gitu banyak , terus polisi malah cari ahli yang ringan , kalau ujung tidak masuk adil
+NEG	apa khayal bodoh . mana ada orang yang percaya . penuh skandal bilang bersih ! ahok koruptor ayo save pak ahok $$ HT_POS
+NEG	jelas habib rizieq soal hasil sementara gelar perkara ahok tangkap ahok bela alquran aksibelaquran $$ HT_NEG HT_NEG HT_NEG
+NEG	 ini bukan soal beda dapat , seteru , atau konflik individu , ini sederhana , ahok nista agama kami , beri kami adil
+NEG	  atau ada khawatir yang amat sangat , demo dengan agenda tangkap ahok dan lengser jokowi , moga demo lebih dari
+NEG	bila boleh ibarat , ahok itu ibarat genteng pecah . ganti ! biar genteng pecah hanya akan buat isi rumah hancur kena badai
+NEG	hanya karena lidah keseleo orang stabilitas negara ancam . konflik batin , benci , fitnah tebar . basuki game over $$ HT_NEG
+NEG	tidak tahu ini berita benar atau tidak tapi seperti ini masuk akal luar biasa lagi , lagi dan lagi , kini pns dki pun tolak ahok
+NEG	kalo di twitter ada ramai yang bain ahoak , itu karena modus . mereka cuma ngarepin hadiah kuis . wkwk basuki game over $$ HT_NEG
+NEG	 wahai ahok dan perintah rezim munafik , ingat . ! pilkada hak pilih juga masih jauh , kami tak ada kait nya , hanya satu adil
+NEG	gelar perkara apa ahli tafsir yang banyak ? . , motif dan tuju ahok bicara , itu yang perlu selisik , ahok telah bentur para ahli .
+NEG	. sudah ada bukti , sudah jelas jelas saksi ahli di bidang agama , pidana dan bahasa tentang nista agama oleh ahok polri harus netral
+NEG	sulit untuk kata anda akan bela ahok , sejarah dan manuver politik anda untung ahok , wajar kami curiga , apa penting ahok buat anda ?
+NEG	lidah nista agama yang sakit umat agama lain , bukan di pulau ribu saja , bagaimana dengan buku tahun lalu ? basuki game over $$ HT_NEG
+NEG	cara tidak langsung  sudah tuduh umat islam untuk pecah belah bangsa ini . padahal kunci satu nkri ada di dia sendiri . tangkap ahok !
+NEG	sulit untuk bilang bahwa kasus ahok tanpa intervensi ketika presiden , menkopolhukam , menkumham dan jaksa agung asal dari partai usung ahok polisiharusnetral
+POS	pak ahok beri nyaman ayo save pak ahok $$ HT_POS
+POS	pak ahok is the best ayo save pak ahok $$ HT_POS
+POS	pak ahok kerja nyata ayo save pak ahok $$ HT_POS
+POS	ylbhi jokowi jangan korban ahok demi tekan massa
+POS	pak ahok baik hati . ayo save pak ahok $$ HT_POS
+POS	ahok cuti , tanah abang kembali macet ahok ahok
+POS	pak ahok orang rakyat ayo save pak ahok $$ HT_POS
+POS	cathy sharon pilih ahok ini , kamu masa tidak ?
+POS	pak ahok beri jelas . ayo save pak ahok $$ HT_POS
+POS	pak ahok orang adil . ayo save pak ahok $$ HT_POS
+POS	cathy sharon nyata ahok orang lucu ahok pilkadadki
+POS	pak ahok bukan nista . ayo save pak ahok $$ HT_POS
+POS	pak ahok orang sabar . ayo save pak ahok $$ HT_POS
+POS	pak ahok tidak galak . ayo save pak ahok $$ HT_POS
+POS	pak ahok bukan jahat . ayo save pak ahok $$ HT_POS
+POS	pak ahok orang tulus . ayo save pak ahok $$ HT_POS
+POS	go vote for bapak ahok ayo save pak ahok $$ HT_POS
+POS	yorrys sebut golkar tetap dukung ahok di pilgub dki
+POS	lebih baik ahok tidak jadi sangka , biar ada alas
+POS	ahok djarot tolak warga , ruhut kami tak gentar !
+POS	semangat terus pak ahok ayo save pak ahok $$ HT_POS
+POS	pak ahok orang wibawa . ayo save pak ahok $$ HT_POS
+POS	pak ahok itu taat hukum ayo save pak ahok $$ HT_POS
+POS	pak ahok orang sahaja . ayo save pak ahok $$ HT_POS
+POS	ayo save pak ahok dukung kakak angkat ahok $$ HT_POS
+POS	always vote you pak ahok ayo save pak ahok $$ HT_POS
+POS	golkar tegur aburizal bakrie soal nyata tentang ahok
+POS	pak ahok orang sahabat . ayo save pak ahok $$ HT_POS
+POS	pak ahok itu pasti menang ayo save pak ahok $$ HT_POS
+POS	pak ahok orang disiplin . ayo save pak ahok $$ HT_POS
+POS	moga pak ahok bagi dari benar save pak ahok $$ HT_POS
+POS	pak ahok orang bijaksana . ayo save pak ahok $$ HT_POS
+POS	pak ahok punya kinerja oke ayo save pak ahok $$ HT_POS
+POS	takut saing . itu saja inti ahokhormatihukum $$ HT_POS
+POS	saya salut dengan pak ahok ayo save pak ahok $$ HT_POS
+POS	tim sukses ahok moga ahok tak kena hal yang rugi juang
+POS	program apa mas ? tim ahok cukup pamer hasil karya nya
+POS	ini bukti nyata pihak ahok ayo save pak ahok $$ HT_POS
+POS	tidak ada yang seperti ahok ayo save pak ahok $$ HT_POS
+POS	pak ahok orang lapang dada . ayo save pak ahok $$ HT_POS
+POS	tara institute ahok tidak laku tindak pidana nista agama
+POS	p djan faridz kontrak politik dengan ahok tak bisa gugur
+POS	pak ahok itu orang konsekuen ayo save pak ahok $$ HT_POS
+POS	pak ahok tegas tapi santai . ayo save pak ahok $$ HT_POS
+POS	sistematis sekali cara lawan untuk halang kampanye ahok .
+POS	tatap lurus ke depan pak ahok ayo save pak ahok $$ HT_POS
+POS	pak ahok kerja untuk rakyat . ayo save pak ahok $$ HT_POS
+POS	pak ahok tidak suka basa basi ayo save pak ahok $$ HT_POS
+POS	pak ahok jasa untuk jakarta . ayo save pak ahok $$ HT_POS
+POS	pak ahok itu aktivis nasional ayo save pak ahok $$ HT_POS
+POS	pak ahok orang anti korupsi . ayo save pak ahok $$ HT_POS
+POS	pak ahok orang tidak sombong . ayo save pak ahok $$ HT_POS
+POS	pak ahok jauh dari kapitalisme ayo save pak ahok $$ HT_POS
+POS	jakarta sepi tidak ada pak ahok ayo save pak ahok $$ HT_POS
+POS	dosen fikom unpad ungkap alas mengapa banyak media pro ahok
+POS	ini alas mengapa banyak media dukung ahok saat gelar perkara
+POS	pak ahok pimpin yang idam idam . ayo save pak ahok $$ HT_POS
+POS	yang tolak itu massa bayar suruh ayo save pak ahok $$ HT_POS
+POS	saya salut dengan pak ahok pakai ayo save pak ahok $$ HT_POS
+POS	pak ahok tindak demi maju jakarta ayo save pak ahok $$ HT_POS
+POS	p djan faridz kontrak politik dengan ahok tak bisa gugur jaka
+POS	semangat dan jangan serah pak ahok ayo save pak ahok $$ HT_POS
+POS	 salut adik . doa pak ahok dan pak djarot bisa lewat uji .
+POS	pak ahok itu really really really really pahlawan for dki jaka
+POS	pak ahok itu amazing sangat sumpah ayo save pak ahok $$ HT_POS
+POS	cathy sharon suka dekat ahok selebriti cathy sharon aku sangat
+POS	pak ahok pimpin tepat untuk jakarta ayo save pak ahok $$ HT_POS
+POS	yang edit video pak ahok muka jelek ayo save pak ahok $$ HT_POS
+POS	kalau ahok jadi sangka , tikus dewan kembali kembung savenkri
+POS	pak ahok . itu pimpin yang rakyat . ayo save pak ahok $$ HT_POS
+POS	pak hayono isman di ciracas sama dengan ibu relawan badja darma
+POS	pak ahok gaul dan ramah dengan warga ayo save pak ahok $$ HT_POS
+POS	jadi ini cuma mereka ber yang punya masalah tapi yang demo juta ?
+POS	p djan faridz kontrak politik dengan ahok tak bisa gugur via 
+POS	kalau bukan ahok jakarta adalah sampah ayo save pak ahok $$ HT_POS
+POS	pak ahok peduli dengan sama yang butuh ayo save pak ahok $$ HT_POS
+POS	pak ahok tegas tindak , jujur dan adil ayo save pak ahok $$ HT_POS
+POS	ayo gabung parade bela ahok tanpa ahok indonesia lancar jaya no sara
+POS	dosen fikom unpad ungkap alas mengapa banyak media pro ahok via 
+POS	ruhut tak khawatir hadap jalan gelar perkara kasus ahok di bareskrim
+POS	pak ahok itu luar biasa dalam bidang apa ayo save pak ahok $$ HT_POS
+POS	  apa takut ahok menang pilgub ya , fair dong bukti di tps
+POS	pak ahok . itu pimpin yang anti korupsi . ayo save pak ahok $$ HT_POS
+POS	sama pak ahok , bukan janji , tapi bukti ayo save pak ahok $$ HT_POS
+POS	keukeuh tetap dukung ahok di pilkada dki jakarta pdip tetap kokoh pada
+POS	pak ahok orang kristiani yang cinta santri ayo save pak ahok $$ HT_POS
+POS	ahok tiru tidak nanti ini pak dengan tetangga belah . sukses selalu ya
+POS	        ahok   politisasi agama
+POS	si mamah heboh benar cerita . pas lagi ke jatinegara doi ketemu pak ahok
+POS	pak ahok . itu yang tegas . berantas korupsi ayo save pak ahok $$ HT_POS
+POS	pak ahok tidak takut resiko yang datang pada ayo save pak ahok $$ HT_POS
+POS	        ahok   politisasi agama .
+POS	pak ahok adalah orang yang jujur dalam tindak ayo save pak ahok $$ HT_POS
+POS	pak ahok visi yang maju maju jakarta lebih baik ayo save pak ahok $$ HT_POS
+POS	pak ahok gubernur jakarta etnis tionghoa pertama ayo save pak ahok $$ HT_POS
+POS	pak ahok itu pasti bisa kok kendali jakarta lagi ayo save pak ahok $$ HT_POS
+POS	pak ahok pimpin yang hebat dan tepat untuk jakarta ayo save pak ahok $$ HT_POS
+POS	asal bukan ahok , tidak apa nista agama juga . bersamabelankri jagapancasila
+POS	pak ahok adalah orang yang tegas dengan yang salah ayo save pak ahok $$ HT_POS
+POS	kami butuh pimpin yang kaya pak ahok , maju terus ayo save pak ahok $$ HT_POS
+POS	  rasa sama gafatar , syiah , ahmadiah tidak seperti ke ahok tuntut .
+POS	kerja sama pak ahok itu luar biasa dalam bidang apa ayo save pak ahok $$ HT_POS
+POS	terus bangun jakarta pak ahok . kami siap dukung mu ayo save pak ahok $$ HT_POS
+POS	pak ahok itu bukti kalau jakarta bisa hidup mandiri ayo save pak ahok $$ HT_POS
+POS	pak ahok selalu tindak adil dan tidak pandang siapa ayo save pak ahok $$ HT_POS
+POS	itu hebat ahok kampanye bukan hanya hadir dukung saja , tapi oleh dukung belah
+POS	belum tinggal , sarlito bela ahok dengan tulis islam dan tuhan tidak perlu bela
+POS	yang tolak datang ahok saat kampanye lucu . alat raga dan kostum selalu lengkap .
+POS	a wah dia nista agama b tidak apa lah kan bukan ahok bersamabelankri jagapancasila
+POS	hal begini yang di dakwah kan  selalu ? mana hati anda ? benar anda ber tuhan ?
+POS	cathy sharon suka dekat ahok selebriti cathy sharon aku sangat suka cara dekat yang
+POS	apakah kalau bukan ahok kasus kaya gin akan masalah ? bersamabelankri jagapancasila
+POS	pak ahok selalu utama penting warga dari penting pribadi ayo save pak ahok $$ HT_POS
+POS	memang kasus kemarin untuk jatuh pak ahok saja sih kaya bersamabelankri jagapancasila
+POS	bang  memang tanggal november nanti yang pro ahok mau pawai ya ? mohon info nya .
+POS	jakarta tanpa pak ahok itu bisa apa , untung aa pak ahok ayo save pak ahok $$ HT_POS
+POS	tetap semangat pak ahok tuhan selalu serta orang yang percaya pada god bless you pak )
+POS	pak ahok tidak seperti yang lain , yang hanya modal janji ayo save pak ahok $$ HT_POS
+POS	kalau yang bicara bukan ahok kok pada adem ayem saja ya . bersamabelankri jagapancasila
+POS	pak ahok itu korban . iya korban dari orang yang ingin jatuh ayo save pak ahok $$ HT_POS
+POS	tata kota jakarta akan henti sia sia . jika tanpa pak ahok . ayo save pak ahok $$ HT_POS
+POS	  ahok tidak nista agama sebab mui organisasi tidak jelas . mui lebih baik bubar
+POS	  main bagaimana ? tv jam hari , hari minggu berita baik ahok dan jelek lawan .
+POS	bukti pak ahok tidak korupsi , sekarang jakarta lebih indah ayo save pak ahok $$ HT_POS
+POS	pimpin yang tegas , semangat pak ahok , moga selalu di lindung ayo save pak ahok $$ HT_POS
+POS	nuduh saya islam liberal ? kalo kamu islam apa ya ? maaf tanya mulut islami sangat , salut )
+POS	prihatin adik zalim , kakak angkat ahok sambang mabes polri karena ayah andi analta amir yang
+POS	hikayat agung podomoro  :PPP djan faridz kontrak politik dengan ahok tak bisa gugur
+POS	kalo di agama mungkin sudah nista , tapi untuk di hukum harus ikut proses di polisi dulu kan ?
+POS	allah ajar kita u doa musuh yang baik tapi orang satu ini malah balik ajar islam apakah yang anut
+POS	jakarta yang dulu kumuh kini lebih tata . nyata berkat pimpin pak ahok ayo save pak ahok $$ HT_POS
+POS	sampai hari ini anak anak di usia dini pun mulai erti bahwa orang yang sorban belum tentu baik bua
+POS	betul pak , kita cukup doa saja kalau ada masalah yang sangkut besar ayo save pak ahok $$ HT_POS
+POS	mana kemarin yang koar masalah nista agama ? ini kok diam . tidak ada duit kah ? deletefpi $$ HT_POS
+POS	bego ini orang , kalau sampai hilang ahok indonesia hilang bhineka , yang ada malah diskriminasi .
+POS	apa yang ingin anak gendong ahok itu ibu sendiri bung , sampai antri ingin anak gendong ahok , jan
+POS	 apa ahok tidak minta tuhan dia hidup rasulullah jelas yang hina agama ahok . apa urus sama fpi ?
+POS	just info dalam beberapa waktu ini kami jempol rakyat lebih fokus sorot kasus ahok demi utuh nkri . !
+POS	jakarta yang dulu semrawut kini lebih tata . nyata berkat pimpin pak ahok ayo save pak ahok $$ HT_POS
+POS	benar ya nyata kata pak ahok soal dia tidak mau cuti . salah satu poin tentang siap hadap musim hujan
+POS	ayo semangat ya pak . dki masih butuh sosok pimpin yang seperti pak ahok . ayo save pak ahok $$ HT_POS
+POS	buat kami yakin dan percaya bahwa benar yang sungguh ada di diri pak ahok . ayo save pak ahok $$ HT_POS
+POS	bangun jakarta akan henti sia sia jika pak ahok . bukan yang pimpin jakarta ayo save pak ahok $$ HT_POS
+POS	. pimpin jakarta lagi ya pak . ahok untuk jakarta lebih indah . dan tentram ayo save pak ahok $$ HT_POS
+POS	ayo semangat ya pak . dki masih butuh sosok pimpin yang seperti pak ahok . ayo save pak ahok . $$ HT_POS
+POS	 kami para dukung ahok tidak akan caci atau balas dengan benci , karena kami kelompok yang waras .
+POS	 yang wajib cari tahu bayar siapa hingga harus rusuh pak ahok ? siapa yang takut kalah apa guna massa
+POS	salam jari ahok djarot bukti ahok djarot salam jari  jalan . suci susu ciracas $$ HT_POS HT_POS HT_POS
+POS	tunjuk langkah baik pak ahok . untuk cipta masa depan jakarta yang sejahtera . . ayo save pak ahok $$ HT_POS
+POS	tweet si felix ini lihat empatik di awal , padahal tuju tetap serang ahok . sama sekali tak ada respek buat
+POS	 itu niat dari dukung ahok ya , bukan niat dari ahok sebentar saja , kalau salah kan dia siap di proses
+POS	negara ini bisa di dikte oleh preman . perlu tekan , bukan muslim yang benci ahok , tapi preman . ibu ibu a
+POS	jakarta untuk pak ahok pak ahok untuk jakarta dan kami untuk pak ahok dan indonesia ayo save pak ahok $$ HT_POS
+POS	cagub lain kocar kacir cari dukung eh ahok malah di datang dukung sendiri save ahok ahok djarot $$ HT_POS HT_POS
+POS	nah begini respon yang bijak , dukung dan tenang sempat curhat , kakak angkat pun ungkap salah k ahok via 
+POS	apa malu sih kamu orang pada ? apa kamu malu bilang kalau kamu orang bela si ahok ? aku saja sih , biar fair ,
+POS	manusia memang makhluk yang dosa dan pak ahok juga dan kita harus bisa maaf pak ahok ayo save pak ahok $$ HT_POS
+POS	sekalipun kriminalisasi sakit dan zalim . jangan pernah serah apa ahok salamduajari ahok djarot $$ HT_POS HT_POS
+POS	wajib baca . ahli tafsir asal mesir tawar diri bantu ahok , bantah ! bukan minta presiden jokowi tribun manado
+POS	pokok pak ahok yang baik untuk jakarta yang lain tidak benar bisa bikin jakarta baik ayo save pak ahok $$ HT_POS
+POS	pak ahok pasti bisa bukti bahwa beliau bisa pimpin jakarta dan kami terus dukung anda ayo save pak ahok $$ HT_POS
+POS	 ahok tidak nista agama . justru yang marah marah itu yang nista agama . agama tidak ajar jadi manusia marah .
+POS	apa veronika , mama minta rumah sakit , dari pada istri marah ahok maling uang negara ayo save pak ahok $$ HT_POS
+POS	yang pening sana itu , sudah habis duit ratus milyar buat bayar hater ahok . gagal juga . itu duit jangan dari pro
+POS	menang pilkada , maka maksain hendak bisa mungkin ahok mundur , cara yang licik bang , saya mending golput kalau g
+POS	setuju , ahok lebih baik bebas , ormas mau rusuh ? ayo saja , diam ngelunjak kira kita takut ape ? kamu jual kita b
+POS	negara hukum ? tapi teriak ahok harus di hukum ? nyata hukum versi para bigot ya seperti gin , harus ikut hendak sep
+POS	kenapa sih saya pilih ahok ? karena saya rasa langsung ubah itu . ubah yang lama ini saya pikir cuma bullshit politikus
+POS	ahok yang kerja benar kira nista agama , usut sampai demo tidak jelas teroris bom aku islam , anak tinggal biar ironi
+POS	dengan semangat dan segenap dukung . , kami harap pak ahok terus maju dan bapak pasti bisa ayo save pak ahok $$ HT_POS
+POS	pak ahok . itu pimping yang sangat arif dan bijaksana . banyak peduli dengan masyarakat kecil ayo save pak ahok $$ HT_POS
+POS	kami sini dukung pak ahok untuk terus maju . jadi bapak harus terus semangat dan maju terus ! ayo save pak ahok . $$ HT_POS
+POS	bela pak ahok . bukan karena saya tionghoa , tetapi karena memang ahok pantas untuk di bela . ayo save pak ahok $$ HT_POS
+POS	mau bilang kafir pun , masyarakat kecil yang rasa langsung mudah birokrasi sejak ahok jabat akan terima kasih pada ahok .
+POS	pak ahok harus di adil i arti laku cara adil ! sekarang saja banyak yang hujat keji ! itu adil ? ayo save pak ahok $$ HT_POS
+POS	   warga nasi bungkus laskar efpei , hatei , efui , emui , pekaes . mereka intai ahok mana pergi untuk kacau .
+POS	nyok kita coblos ahok djarot ! salam jari ahok djarot tetap ahok djarot ini baru jakarta  $$ HT_POS HT_POS HT_POS HT_POS
+POS	  coba buka timeline  dia yang follow aku , dia pula yang blok . dah tahu dari dulu aku ahok sangat . anti fpi .
+POS	tetap dukung pak ahok saya ingin jakarta tahun besok jadi lebih baik maka dari itu dukung pak ahok ayo save pak ahok $$ HT_POS
+POS	kalo layan jakarta kurang bagus atau rasa tidak layan , masyarakat sekarang bisa bilang saya aduin ahok lho belum apa bisa ?
+POS	orang jujur susah hidup di negeri rampok ! maju terus pak ahok jangan mau kalah sama orang murtad ! ayo save pak ahok $$ HT_POS
+POS	jujur , ahok peleset kata tidak masalah . sengaja goreng cuma supaya ahok tidak ikut pilkada . mereka aku itu kotor dan kecut
+POS	lansia sejahtera , jakarta maju salam jari ahok djarot tetap ahok djarot  jalan . suci susu ciracas $$ HT_POS HT_POS HT_POS
+POS	punya tetangga satu kampung dari belitung tidak bisa andal padahal ahli hukum nama . apa mesti pak ahok nyolong apbd dulu baru bela
+POS	apa doi sensitif ma ahok karena sudah susah cari objek di jakarta , sudah susah malak kiri kanan save pak ahok savenkri $$ HT_POS
+POS	bahagia orang dki yang punya pimpin kaya pak ahok . apakah kita semua akan biar pak ahok juang sendiri . ayo save pak ahok $$ HT_POS
+POS	mereka hanya lihat sisi buruk bapak tapi tidak lihat baik pak ahok , mereka tidak harus salah pak ahok ayo save pak ahok $$ HT_POS
+POS	 prof . anda kecewa tidak calon di pilkada dki jadi tidak dukung lawan ahok karena nanti yang calon untung betul begitu prof . ?
+POS	puluh orang kumpul adil , juta lain hrp cemas tunggu hasil kongko itu . tapi ahok cuek , pilih ketemu warga . memang tokoh langka !
+POS	tidak semua yang orasi salah , namun yang fitnah banyak ! pak ahok adalah korban . semangat terus pak ! ayo save pak ahok $$ HT_POS
+POS	kalo pak ahok sangka tidak rusuh karena kami dukung pak ahok tidak bar bar . kita rasional , mereka emosional . ahok bukan gala gala
+POS	  bung din kok pikir negatif terus sama ahok dia sama dengan bung tidak sempurna jaga martabat nama besar bung din bawa nyaman !
+POS	pimpin jakarta lagi ya pak . ahok . kami percaya pak ahok bisa . bilas semua rintang . yang jatuh dan fitnah ayo save pak ahok $$ HT_POS
+POS	pak ahok adalah pimpin yang hebat . dan hanya orang hebat yang yang akan terus usaha kuat tenaga untuk maju ayo save pak ahok . $$ HT_POS
+POS	 orang yang paling lihat busuk niat dari kemarin gagal fokus demo ahok tapi dia tahu niat jelek mau impeachment presiden , munafik !
+POS	 oalah jonru lagi . rasa pilpres ya . saya tidak bayar ahok tapi saya bela orang yang kerja jujur , berani bawa ubah baik buat jakarta
+POS	tuhan tak tidur , tuhan maha adil , ada saat adil datang dari nya , tetap tegar ya pak ahok , saya siap dukung ayo save pak ahok $$ HT_POS
+POS	jakarta yang dulu penuh sampah kini lebih tata . nyata berkat pimpin pak ahok . pimpin jakarta lagi ya pak . ahok ayo save pak ahok $$ HT_POS
+POS	kenapa mereka begitu ribut ? karena mau sangka pun tidak akan puas . tuju mereka benar ada jegal ahok . takut saing . ahokhormatihukum $$ HT_POS
+POS	jakarta yang dulu penuh koruptor kini lebih bersih . nyata berkat pimpin pak ahok . pimpin jakarta lagi ya pak . ahok ayo save pak ahok $$ HT_POS
