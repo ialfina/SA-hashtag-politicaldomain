@@ -12,5 +12,5 @@ These dataset is available for personal use, but if you want to publish paper us
 
 Alfina, I,. Sigmawaty, D., Nurhidayati, F., & Hidayanto, A. N. (2017). <i>Utilizing Hashtags for Sentiment Analysis of Tweets in The Political Domain</i>. In ICMLC (International Conference on Machine Learning and Computing) 2017, Singapore. DOI: 10.1145/3055635.3056631
 
-
+https://www.researchgate.net/publication/312590328_Utilizing_Hashtags_for_Sentiment_Analysis_of_Tweets_in_The_Political_Domain
 
