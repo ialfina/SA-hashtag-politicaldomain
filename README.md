@@ -6,11 +6,9 @@ The objective of this research is to investigate the benefit of utilizing hashta
 <b>Dataset</b><br>
 This project used 3 dataset, Dataset A, B and C.
 Please read the corresponding paper about the differences between these dataset.
-The files of dataset A, B and C in this repositories is the dataset after preprocessing. We could not find the original :(
+The files of dataset A, B and C in this repositories is the dataset after preprocessing. We could not find the original one :(
 
 These dataset is available for personal use, but if you want to publish paper using the dataset you should cite this publication:
 
-Alfina, I,. Sigmawaty, D., Nurhidayati, F., & Hidayanto, A. N. (2017). <i>Utilizing Hashtags for Sentiment Analysis of Tweets in The Political Domain</i>. In ICMLC (International Conference on Machine Learning and Computing) 2017, Singapore. DOI: 10.1145/3055635.3056631
-
-https://www.researchgate.net/publication/312590328_Utilizing_Hashtags_for_Sentiment_Analysis_of_Tweets_in_The_Political_Domain
-
+<a href="https://www.researchgate.net/publication/312590328_Utilizing_Hashtags_for_Sentiment_Analysis_of_Tweets_in_The_Political_Domain">
+Ika Alfina, Dinda Sigmawaty, Fitria Nurhidayati, and Ahmad Nizar Hidayanto, <i>Utilizing Hashtags for Sentiment Analysis of Tweets in The Political Domain</i>. In ICMLC (International Conference on Machine Learning and Computing) 2017, Singapore. DOI: 10.1145/3055635.3056631</a>
